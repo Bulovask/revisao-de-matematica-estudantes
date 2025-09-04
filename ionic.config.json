@@ -1,0 +1,7 @@
+{
+  "name": "PROJETO_REVISAO_DE_MATEMATICA_BASICA",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
